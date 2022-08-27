@@ -16,6 +16,10 @@
     "type": "git",
     "url": "git+https://github.com/iamsavani/react-native-bip39.git"
   },
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org"
+  },
   "lint-staged": {
     ".ts": "eslint --fix"
   },
