@@ -12,7 +12,6 @@
     "release": true
   },
   "hooks": {
-    "before:init": ["yarn typecheck", "yarn test"],
-    "after:bump": "yarn bootstrap"
+    "before:init": ["yarn typecheck", "yarn test"]
   }
 }
