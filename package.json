@@ -1,6 +1,6 @@
 {
   "name": "@ns/react-native-bip39",
-  "version": "1.0.4",
+  "version": "1.1.0",
   "description": "React Native Bitcoin BIP39: Mnemonic code for generating deterministic keys",
   "main": "lib/commonjs/index.js",
   "module": "lib/module/index.js",
